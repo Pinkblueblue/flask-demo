@@ -1,4 +1,4 @@
-FLASK_APP=hello
+FLASK_APP=database
 FLASK_ENV=production
 FLASK_DEBUG=1
 FLASK_PORT=8080
